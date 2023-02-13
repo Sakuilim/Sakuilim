@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://github.com/Sakuilim"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakuilim&theme=dark&hide=C&langs_count=4)"/></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Sakuilim&&show_icons=true&theme=dark&line_height=33)](https://maxbase.org)
+
+![](https://komarev.com/ghpvc/?username=Sakuilim)
+
 <!--
 **Sakuilim/Sakuilim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
